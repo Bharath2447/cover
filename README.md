@@ -31,8 +31,8 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
-```
 cover.html
+```
 <html>
     <head>
         <title>Book Cover Page</title>
@@ -74,8 +74,9 @@ cover.html
         </div>
     </body>
 </html>
-
+```
 style.css
+```
 .bookcover{
     width: 400px;
     height: 600px;
