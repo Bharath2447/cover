@@ -1,0 +1,93 @@
+.bookcover{
+    width: 400px;
+    height: 600px;
+    color:black;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    font-family:'Times New Roman', Times, serif;
+    background-image: url(Background.png);
+    background-size: cover;
+}
+
+.margin{
+    width: 400px;
+    height: 600px;
+	border: solid 2px white;
+	background-size: cover;
+}
+        
+.insight{
+    color: white;
+    left: 5px;
+    top: 8px;
+    position: relative;
+}
+        
+.hrstyle{
+    width: 95px;
+	height: 2px;
+    color: white;
+}
+
+.title{
+    color: white;
+    font-family: Verdana;
+    font-size: x-large;
+    text-align: center;
+    position: relative;
+    top: 25px;      
+}
+
+.subtitle{
+    color: white;
+    font-family: Tahoma;
+    font-size: medium;
+    position: relative;
+    left: 13px;
+    top: 20px;
+}
+
+.mypic{
+    position: relative;
+    top: 110px;
+    left: 290px;
+    width: 75px;
+    height: 80px;
+    background-size:contain;
+        }
+
+.id{
+    width:400px;
+    height: 2px;
+    position: relative;
+    top:150px;
+}
+
+.author{
+    display: inline;
+    position: relative;
+    color: white;
+    top:135px; 
+    left: 8px;           
+    font-family: Times New Roman;
+    font-size: medium;
+}
+        
+.publisher{
+    color: white;
+    font-size: medium;
+    position: relative;
+    font-family:Times New Roman;
+    top:100px;
+    left:360px;
+}
+
+.edition{
+    color: white;
+    font-size: medium;
+    font-family:Times New Roman;
+    position: relative;
+    left: 8px;
+    top: 60px; 
+}
